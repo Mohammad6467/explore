@@ -4,11 +4,12 @@ items:
  - foundation/foundation-sites
  - jgthms/bulma
  - uikit/uikit
- - semantic-org/semantic-ui
+ - Semantic-Org/Semantic-UI
  - Dogfalo/materialize
  - pure-css/pure
  - tailwindlabs/tailwindcss
-display_name: CSS Frame Works
+ - Trendyol/baklava
+display_name: CSS Frameworks
 created_by: krishdevdb
 ---
 A CSS framework is a set of css classes that allow you to create your website with little to no new css code.
